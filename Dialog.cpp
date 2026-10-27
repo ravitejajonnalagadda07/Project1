@@ -69,7 +69,7 @@ LRESULT WndProc(HWND hWnd, UINT msgId, WPARAM wParam, LPARAM lParam)
 		return DefWindowProc(hWnd, msgId, wParam, lParam);
 
 	}
-	return 0L;
+	return 0L;///git
 
 }
 
